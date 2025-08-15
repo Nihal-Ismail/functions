@@ -3,4 +3,3 @@ def add(a,b,*c):
     print("The sum is:",s)
 
 add(1,2,7,78,33,56)
-add(1,2,7,78,33,56)
