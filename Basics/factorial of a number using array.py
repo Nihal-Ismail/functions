@@ -22,4 +22,4 @@ else:
 
     # Output the result
     print(f"The factorial of {number} is {factorial_result}.")
-g
+gvg
