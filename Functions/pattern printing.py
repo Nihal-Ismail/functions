@@ -26,4 +26,3 @@ def pattern_print(n):
 # Example usage
 n = int(input("Enter the number of rows (n): "))
 pattern_print(n)
-zsz
